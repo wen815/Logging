@@ -1,0 +1,32 @@
+/*body*/
+body{margin:0;}
+
+/*link*/
+a{text-decoration: none;}
+a:link{color:#c2c9cf;}
+a:visited{color:#c2c9cf;}
+a:active{color:#009de4;}
+
+/*logo*/
+#alogo{margin-left:75px;margin-top:42px;font-weight: 800;}
+#alogo h4{color:#009de4;}
+
+/*main section*/
+#smain{background-color:#009de4;width:100%;height: 450px;}
+#smain a{color:#ebf8fe;position:absolute;left:1113px;top:105px;}
+/*image*/
+img{margin-left:75px;margin-top:30px;width:460px;}
+/*form*/
+form{position:absolute;left:843px;top:130px;width:300px;height:320px;background-color: #ebf8fe;}
+form h3{margin-left:25px;margin-top:10px;color:#c2c9cf;}
+.text{margin-left: 25px;margin-top:25px;width:240px;height:30px;text-indent: 2em;}
+.r{margin-left:25px;margin-top:30px;}
+.b{margin-left:25px;margin-top:30px;width:240px;height:30px;background-color:#009fea;color:white;}
+
+/*footer*/
+footer{color:#c2c9cf;}
+footer span{margin-left:115px;}
+ul{margin-left:800px;margin-top:-20px;}
+ul li{list-style: none;float:left;text-indent: 0.5em;padding-right: 0.5em;}
+.l{border-right: 1px solid #c2c9cf;}
+
